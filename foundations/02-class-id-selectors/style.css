@@ -1,0 +1,18 @@
+.odd{
+    background-color: lightcoral;
+    font-style: Verdana, "DejaVu Sans", sans-serif;;
+}
+
+#two{
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#anotherid{
+    background-color: lightgreen;
+    font-weight: bold;
+}
